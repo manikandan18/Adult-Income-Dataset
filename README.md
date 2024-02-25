@@ -19,7 +19,7 @@ The below checks are done
 8. Fitting Generalized Linear Models
 9. Conclusion on result of population distribution
 
-# Use the commands below to fetch data and view the metadata and data types of variables
+# Use the commands below in python to fetch data and view the metadata and data types of variables
 
 from ucimlrepo import fetch_ucirepo
 # fetch dataset
