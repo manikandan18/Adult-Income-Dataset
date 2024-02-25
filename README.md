@@ -6,7 +6,8 @@ UCI Machine Learning Repository. (n.d). Social Data Sets. Retrieved [02/05/2024]
 Number of Variables: 15
 Size of Data Set: 48842 instances
 
-# The idea is to analyze the data with different statistical models and check that population distribution of income >50K exceeds 0.25 on number of years of education greater than its mean.
+The idea is to analyze the data with different statistical models and check that population distribution of income >50K exceeds 0.25 on number of years of education greater than its mean.
+
 The below checks are done
 1. Checking mean, standard deviation and variance of sample.
 2. Various histogram plots.
