@@ -1,4 +1,4 @@
-# Adult-Income-Dataset
+# [1] Adult-Income-Dataset
 # This data set is picked from below
 
 UCI Machine Learning Repository. (n.d). Social Data Sets. Retrieved [02/05/2024], from https://archive.ics.uci.edu/dataset/2/adult
@@ -32,4 +32,5 @@ print(adult.metadata)
 # variable information
 print(adult.variables)
 
-
+References:-
+[1] Becker,Barry and Kohavi,Ronny. (1996). Adult. UCI Machine Learning Repository. https://doi.org/10.24432/C5XW20.
